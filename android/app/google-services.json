@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "80503258646",
+    "firebase_url": "https://hum-deliveryboy.firebaseio.com",
+    "project_id": "hum-deliveryboy",
+    "storage_bucket": "hum-deliveryboy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80503258646:android:1e5b7d77016fe0ecfc3f37",
+        "android_client_info": {
+          "package_name": "com.humeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcNgxEUUt82Gp3H4Zo6GRA440AwIYXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80503258646-dv1ghermh69cgv61nfncr9dvhm70ceps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outlogics.hummanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80503258646:android:18a782c287f3d4c2fc3f37",
+        "android_client_info": {
+          "package_name": "com.outlogics.hum_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcNgxEUUt82Gp3H4Zo6GRA440AwIYXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80503258646-dv1ghermh69cgv61nfncr9dvhm70ceps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outlogics.hummanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80503258646:android:db799018e04ecd5ffc3f37",
+        "android_client_info": {
+          "package_name": "com.outlogics.humm_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcNgxEUUt82Gp3H4Zo6GRA440AwIYXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80503258646-dv1ghermh69cgv61nfncr9dvhm70ceps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outlogics.hummanager"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80503258646:android:91fb2002a420a31cfc3f37",
+        "android_client_info": {
+          "package_name": "com.outlogics.humm_deliverboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcNgxEUUt82Gp3H4Zo6GRA440AwIYXjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80503258646-kd1ri2t14c1lrn98l8624j6v7mueckng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "80503258646-dv1ghermh69cgv61nfncr9dvhm70ceps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.outlogics.hummanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
